@@ -95,6 +95,7 @@ npm run dev
 
 
 🤝 Contributing
+
 **Contributions are always welcome!**
 - Fork this repository
 - Create a new branch (git checkout -b feature/NewFeature)
@@ -106,7 +107,7 @@ npm run dev
 - Developer: Deepesh Chauhan
 - Email: deepesh2596@gmail.com
 - LinkedIn: linkedin.com/in/deepesh-chauhan
-- 
+ 
 
 
 **It’s deployed live and ready to use — give it a try!**
